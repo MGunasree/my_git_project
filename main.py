@@ -1,2 +1,2 @@
 print(Hello World)
-print(This is updated)
+print("This is updated")
